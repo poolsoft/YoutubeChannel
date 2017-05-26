@@ -1,0 +1,21 @@
+<resources>
+    <dimen name="horizontal_margin">16dp</dimen>
+    <dimen name="vertical_margin">16dp</dimen>
+    <dimen name="nav_header_height">210dp</dimen>
+    <dimen name="medium_margin">12dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="space_margin_grid">6dp</dimen>
+
+    <!-- Image -->
+    <dimen name="height_image_item">230dp</dimen>
+    <dimen name="height_image_fatwa">210dp</dimen>
+    <dimen name="image_item_width">150dp</dimen>
+    <dimen name="image_item_height">110dp</dimen>
+
+    <!-- Text Size -->
+    <dimen name="text_size_tanggal">14sp</dimen>
+    <dimen name="text_size_title_item">18sp</dimen>
+    <dimen name="text_size_title">22sp</dimen>
+    <dimen name="text_size_description">16sp</dimen>
+</resources>
